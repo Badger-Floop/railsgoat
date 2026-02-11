@@ -189,4 +189,4 @@ Conversion to OWASP Top Ten 2013 completed in November 2013.
 
 ---
 
-**Warning:** This application contains serious security vulnerabilities. Never deploy it on a public server or network. Use only in isolated training environments.
+**Warning:** This application contains serious security vulnerabilities.  Never deploy it on a public server or network. Use only in isolated training environments.
