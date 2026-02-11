@@ -4,7 +4,7 @@ RailsGoat is a deliberately vulnerable web application built on Ruby on Rails. I
 
 ## What is RailsGoat?
 
-RailsGoat is an intentionally insecure Rails application designed to teach web application security. By exploring and exploiting its vulnerabilities, you'll learn:
+RailsGoat is an intentionally insecure Rails application designed to teach web application security. By exploring and exploiting its vulnerabilities, you will learn:
 
 - How common security flaws manifest in Rails applications
 - How to identify vulnerabilities through code review and testing
